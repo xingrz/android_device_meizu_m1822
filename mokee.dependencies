@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_vendor_meizu_m1822",
+    "target_path": "vendor/meizu/m1822"
+  },
+  {
+    "repository": "android_kernel_meizu_msm8953",
+    "target_path": "kernel/meizu/msm8953"
+  }
+]
